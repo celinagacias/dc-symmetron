@@ -12,4 +12,5 @@ This is a Github repository for conducting the analysis of the exclusion criteri
   * Data Read-In: read in the data and import the necessary libraries
   * Data Cleaning: prepare the data for analysis and subset to the relevant studies (currently, it is only limited to cancer-related studies)
   * Initial Analysis: provide the descriptive statistics for number of studies, exclusions by age and sex, and the keyword search
- * Time Trends: 
+ * Time Trends: compare results from the initial analysis over time, in 5-year bins
+ * Validation of Keyword Search: generate Google Sheet tables for each member of the team to manually classify each condition as being excluded in a sample of clinical trials (based on those tagged by the search algorithm) and compare the manual and automated results to produce accuracy and misclassification rates
