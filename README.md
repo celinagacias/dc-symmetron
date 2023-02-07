@@ -10,5 +10,6 @@ This is a Github repository for conducting the analysis of the exclusion criteri
 ## Data Analysis
 * `Data Cleaning and Analysis.ipynb` contains all the Python code used to read-in the corresponding CSV file and perform the analysis end-to-end. It contains the following sections:
   * Data Read-In: read in the data and import the necessary libraries
-  * Data Cleaning: prepare the relevant fields for analysis
-  * Initial Analysis: 
+  * Data Cleaning: prepare the data for analysis and subset to the relevant studies (currently, it is only limited to cancer-related studies)
+  * Initial Analysis: provide the descriptive statistics for number of studies, exclusions by age and sex, and the keyword search
+ * Time Trends: 
